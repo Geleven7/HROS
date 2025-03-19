@@ -3,7 +3,7 @@ HROS
 
 ## Dataset Description
 A high-resolution OPT-SAR (HROS) benchmark is constructed to support fine-grained OPT-SAR CMRSIR tasks. The dataset comprises 4,000 optical images and 3,100 high-resolution SAR images, with SAR data collected by the AS-01 satellite and annotated by experienced experts.
-(https://github.com/Geleven7/exampledataset.png)
+
 
 
 ## Download Link
