@@ -13,6 +13,6 @@ A high-resolution OPT-SAR (HROS) benchmark is constructed to support fine-graine
 ## Citation
 If you use our dataset, please cite our work. Our paper is currently under review, and you can refer to the following temporary citation:
 
-**Zhang, S.**, **Li, L.**, "A Deep Learning-Based Approach for Remote Sensing Image Analysis," *Journal of Remote Sensing* (under review).
+**Gu, L.**, **Fang, Q.**, "Fine-Grained Hashing for High Spatial Resolution Optical-SAR Remote Sensing Image Retrieval," *IEEE Transactions on Geoscience and Remote Sensing* (under review).
 
 We will update the citation information once the paper is officially published. Thank you for your understanding and support! For any questions, please contact us at: gulingyun7@gmail.com .
